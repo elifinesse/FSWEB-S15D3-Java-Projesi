@@ -2,11 +2,9 @@ package com.workintech.s15d3;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Set;
 
 
 import java.util.Map;
@@ -55,5 +53,6 @@ public class Main {
        }
        System.out.println(repeat);
        System.out.println(nonrepeatMap);
+       System.out.println(allEmployees);
     }
 }
